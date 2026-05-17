@@ -21,7 +21,7 @@
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Forest"],
     "gold": 2,
-    "improvement": "Lumber mill",
+    "improvement": "Lumber Mill",
     "improvementStats": {
         "gold": 1
     },
