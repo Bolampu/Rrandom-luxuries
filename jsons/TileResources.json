@@ -109,5 +109,24 @@
         "Doesn't generate naturally <in [Tundra] tiles>",
         "Doesn't generate naturally <in [Desert] tiles>"
     ]
+}, 
+{
+    "name": "China Clay",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Hill", "Forest", "Plains"],
+    "gold": 2,
+    "improvement": "Mine",
+    "improvementStats": {
+        "production": 2,
+        "gold": 1
+    },
+    "uniques": [
+        "Generated with weight [25] <in [Hill] Regions>",
+        "Generated with weight [10] <in [Forest] Regions>",
+        "Generated with weight [5] <in [Hybrid] Regions>",
+        "Generated near City States with weight [10]",
+        "Doesn't generate naturally <in [Desert] tiles>",
+        "Doesn't generate naturally <in [Jungle] tiles>"
+    ]
 }
 ]
