@@ -1,9 +1,9 @@
 [
         // Luxury res
         {
-                "name": "Amber",
+                "name": "Mummies",
                 "resourceType": "Luxury",
-                "terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
+                "terrainsCanBeFoundOn": [ "Desert", "Hill" ],
                 "gold": 2,
                 "improvement": "Mine",
                 "improvementStats": { "gold": 1 }
