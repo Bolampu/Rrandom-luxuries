@@ -1,21 +1,22 @@
 [
     // Luxury res
     {
-        "name": "Mummies",
-        "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Desert", "Hill"],
-        "gold": 2,
-        "improvement": "Mine",
-        "improvementStats": { "gold": 1 },
-        "uniques": [
-            "Generated with weight [20] <in [Desert] Regions>",
-            "Generated with weight [10] <in [Hill] Regions>",
-            "Generated with weight [5] <in [Hybrid] Regions>",
-            "Generated near City States with weight [10]",
-            "Doesn't generate naturally <in [Forest] tiles>",
-            "Doesn't generate naturally <in [Jungle] tiles>"
-        ]
-    },
+    "name": "Mummies",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Desert", "Plains"],
+    "gold": 2,
+    "improvement": "Mine",
+    "improvementStats": { "gold": 1 },
+    "uniques": [
+        "Generated with weight [20] <in [Desert] Regions>",
+        "Generated with weight [5] <in [Hybrid] Regions>",
+        "Generated near City States with weight [10]",
+        "Doesn't generate naturally <in [Tundra] tiles>",
+        "Doesn't generate naturally <in [Snow] tiles>",
+        "Doesn't generate naturally <in [Forest] tiles>",
+        "Doesn't generate naturally <in [Jungle] tiles>"
+    ]
+}, 
 
     {
         "name": "Cinnamon",
